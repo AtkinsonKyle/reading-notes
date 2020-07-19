@@ -4,7 +4,7 @@
 <hr>
 
 ## Table of Contents
-### - Daily Reading 1
+### - [Daily Reading 1](https://github.com/AtkinsonKyle/reading-notes/blob/master/class-01.md)
 ### - Daily Reading 2
 ### - Daily Reading 3
 ### - Daily Reading 4
