@@ -4,13 +4,13 @@
 ## HTML
 
 ### Terms to Know
-`HTML` Hyper Text Markup Language
-`Tags` Often called an element, tells the browser something about the information that sits between its opening and closing tags
-`Attributes` Provides additional information about content in an element
-`DOCTYPES` Tells browsers which version of HTML you are running
-`<iframes>` Cuts windows into your webpages through which other pages can be displayed
-`<meta>` Allows you to supply information about your webpage
-`<div> and <span>` Allow you to group block-level and inline elements together
+`HTML` Hyper Text Markup Language <br>
+`Tags` Often called an element, tells the browser something about the information that sits between its opening and closing tags <br>
+`Attributes` Provides additional information about content in an element <br>
+`DOCTYPES` Tells browsers which version of HTML you are running <br>
+`<iframes>` Cuts windows into your webpages through which other pages can be displayed <br>
+`<meta>` Allows you to supply information about your webpage <br>
+`<div> and <span>` Allow you to group block-level and inline elements together <br>
 `Wireframes` allow you to organize the information that go on the page
 
 
@@ -36,3 +36,12 @@
 4. If the user has not yet entered anything, a message will appear telling them to enter a name
 5. If a name has been entered, calculate the cost of the sign by multiplying the number of letters by the cost per letter.
 6. Show how much plaque would cost
+
+### Terms to Know
+`<script>` used to embed executable code or data
+
+### Random Facts
+- A script is a series of instructions that the computer can follow in order to achieve a goal
+- Computers create models of the world using data
+- To make a web pages interactive, you write code that uses the browsers model of the webpage
+- It is best to keep Javascript in its own file
