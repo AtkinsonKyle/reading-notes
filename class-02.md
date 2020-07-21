@@ -1,5 +1,6 @@
 # Class 2 Reading Notes
 <hr>
+
 ## Seven Rules of git commit -m ""
 1. Separate subject from body with a blank line
 2. Limit the subject line to 50 characters
