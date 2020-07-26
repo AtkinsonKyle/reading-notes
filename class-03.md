@@ -4,13 +4,11 @@
 
 ### Chapter 3 - Lists
 #### Things to Know
-<ul>
-<li>Three types of lists:<li>
+- Three types of lists:
 <ul>
 <li>Ordered</li>
 <li>Unordered<li>
 <li>Definition<li>
-</ul>
 </ul>
 <br>
 
@@ -39,8 +37,7 @@
 
 ### Chapter 4 - Decisions and Loops
 #### Things to Know
-- Comparison Operators
-<ul>
+<ul>Comparison Operators
 <li>===</li>
 <li>!==</li>
 <li>==</li>
@@ -54,8 +51,7 @@
 - Logical Operators: Allow you to combine more than one set of comparison operators
 - All values evaluate to either truthy or falsy
 - You can change data types from to another
-- There are three types of loops and each repeats a set of statements:
-<ul>
+<ul>- There are three types of loops and each repeats a set of statements:
 <li>For</li>
 <li>While</li>
 <li>Do While</li>
