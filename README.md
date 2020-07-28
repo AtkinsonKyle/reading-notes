@@ -7,7 +7,7 @@
 ### - [Daily Reading 1](https://github.com/AtkinsonKyle/reading-notes/blob/master/class-01.md)
 ### - [Daily Reading 2](https://github.com/AtkinsonKyle/reading-notes/blob/master/class-02.md)
 ### - [Daily Reading 3](https://github.com/AtkinsonKyle/reading-notes/blob/master/class-03.md)
-### - Daily Reading 4
+### - [Daily Reading 4](https://github.com/AtkinsonKyle/reading-notes/blob/master/class-04.md)
 ### - Daily Reading 5
 ### - Daily Reading 6
 ### - Daily Reading 7
