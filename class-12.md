@@ -1,7 +1,7 @@
 # Daily Reading 12
 ### Chart.js
 - Download Chart.js on [this page](https://github.com/nnnick/Chart.js)
-- Need `<canvas>` node to render the chart(`<canvas>` reuires a closing tag)
+- Need `<canvas>` node to render the chart(`<canvas>` requires a closing tag)
 - Look at [the contributing guidelines](https://github.com/chartjs/Chart.js/blob/master/docs/developers/contributing.md) first before pull requesting or submitting an issue
 - Chart.js is available under the MIT License
 - If we want to apply colors to a shape, there are two important properties we can use: `fillStyle` and `strokeStyle`

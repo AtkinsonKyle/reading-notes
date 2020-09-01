@@ -16,6 +16,6 @@
 ### - [Daily Reading 10](https://github.com/AtkinsonKyle/reading-notes/blob/master/class-10.md)
 ### - [Daily Reading 11](https://github.com/AtkinsonKyle/reading-notes/blob/master/class-11.md)
 ### - [Daily Reading 12](https://github.com/AtkinsonKyle/reading-notes/blob/master/class-12.md)
-### - Daily Reading 13
-### - Daily Reading 14
+### - [Daily Reading 13](https://github.com/AtkinsonKyle/reading-notes/blob/master/class-13.md)
+### - [Daily Reading 14](https://github.com/AtkinsonKyle/reading-notes/blob/master/class-14.md)
 ### - Daily Reading 15
