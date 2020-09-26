@@ -1,7 +1,7 @@
 # **Reading Notes**
 ##### These are my notes from the chapters I've been reading, check them out!
 [My GitHub Profile](https://github.com/AtkinsonKyle)
-<br>
+<hr>
 
 ## 201 Reading Notes
 
@@ -20,7 +20,3 @@
 ### - [Daily Reading 12](https://github.com/AtkinsonKyle/reading-notes/blob/master/class-12.md)
 ### - [Daily Reading 13](https://github.com/AtkinsonKyle/reading-notes/blob/master/class-13.md)
 ### - [Daily Reading 14](https://github.com/AtkinsonKyle/reading-notes/blob/master/class-14.md)
-
-<hr>
-
-## 301 Reading Notes
