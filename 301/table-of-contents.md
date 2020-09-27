@@ -2,7 +2,7 @@
 
 ### Table of Contents
 
-### - [Daily Reading 1](https://github.com/AtkinsonKyle/reading-notes/blob/master/SMACCS-RWD.md)
+### - [Daily Reading 1](https://github.com/AtkinsonKyle/reading-notes/blob/master/301/SMACCS-RWD.md)
 
 ### - [Daily Reading 2]
 
