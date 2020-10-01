@@ -4,7 +4,7 @@
 
 ### - [Daily Reading 1](https://github.com/AtkinsonKyle/reading-notes/blob/master/301/SMACCS-RWD.md)
 
-### - [Daily Reading 2]
+### - [Daily Reading 2](https://github.com/AtkinsonKyle/reading-notes/blob/master/301/jQuery.md)
 
 ### - [Daily Reading 3]
 
