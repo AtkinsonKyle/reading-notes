@@ -6,7 +6,7 @@
 
 ### - [Daily Reading 2](https://github.com/AtkinsonKyle/reading-notes/blob/master/301/jQuery.md)
 
-### - [Daily Reading 3]
+### - [Daily Reading 3](https://github.com/AtkinsonKyle/reading-notes/blob/master/301/flexbox-templating.md)
 
 ### - [Daily Reading 4]
 
