@@ -8,7 +8,7 @@
 
 ### - [Daily Reading 3](https://github.com/AtkinsonKyle/reading-notes/blob/master/301/flexbox-templating.md)
 
-### - [Daily Reading 4]
+### - [Daily Reading 4](https://github.com/AtkinsonKyle/reading-notes/blob/master/301/RWD-Regular-Expressions.md)
 
 ### - [Daily Reading 5]
 
