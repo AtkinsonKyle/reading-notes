@@ -10,7 +10,7 @@
 
 ### - [Daily Reading 4](https://github.com/AtkinsonKyle/reading-notes/blob/master/301/RWD-Regular-Expressions.md)
 
-### - [Daily Reading 5]
+### - [Daily Reading 5](https://github.com/AtkinsonKyle/reading-notes/blob/master/301/heroku-deployment.md)
 
 ### - [Daily Reading 6]
 
