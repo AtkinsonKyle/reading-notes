@@ -12,7 +12,7 @@
 
 ### - [Daily Reading 5](https://github.com/AtkinsonKyle/reading-notes/blob/master/301/heroku-deployment.md)
 
-### - [Daily Reading 6]
+### - [Daily Reading 6](https://github.com/AtkinsonKyle/reading-notes/blob/master/301/node-express-api.md)
 
 ### - [Daily Reading 7]
 
