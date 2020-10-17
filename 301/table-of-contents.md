@@ -14,7 +14,7 @@
 
 ### - [Daily Reading 6](https://github.com/AtkinsonKyle/reading-notes/blob/master/301/node-express-api.md)
 
-### - [Daily Reading 7]
+### - [Daily Reading 7](https://github.com/AtkinsonKyle/reading-notes/blob/master/301/API.md)
 
 ### - [Daily Reading 8]
 
