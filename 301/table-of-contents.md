@@ -16,7 +16,7 @@
 
 ### - [Daily Reading 7](https://github.com/AtkinsonKyle/reading-notes/blob/master/301/API.md)
 
-### - [Daily Reading 8]
+### - [Daily Reading 8](https://github.com/AtkinsonKyle/reading-notes/blob/master/301/SQL.md)
 
 ### - [Daily Reading 9]
 
