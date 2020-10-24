@@ -18,7 +18,7 @@
 
 ### - [Daily Reading 8](https://github.com/AtkinsonKyle/reading-notes/blob/master/301/SQL.md)
 
-### - [Daily Reading 9]
+### - [Daily Reading 9](https://github.com/AtkinsonKyle/reading-notes/blob/master/301/refactoring.md)
 
 ### - [Daily Reading 10]
 
