@@ -20,7 +20,7 @@
 
 ### - [Daily Reading 9](https://github.com/AtkinsonKyle/reading-notes/blob/master/301/refactoring.md)
 
-### - [Daily Reading 10]
+### - [Daily Reading 10](https://github.com/AtkinsonKyle/reading-notes/blob/master/301/debugging.md)
 
 ### - [Daily Reading 11]
 
