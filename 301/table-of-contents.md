@@ -22,7 +22,7 @@
 
 ### - [Daily Reading 10](https://github.com/AtkinsonKyle/reading-notes/blob/master/301/debugging.md)
 
-### - [Daily Reading 11]
+### - [Daily Reading 11](https://github.com/AtkinsonKyle/reading-notes/blob/master/301/EJS.md)
 
 ### - [Daily Reading 12]
 
