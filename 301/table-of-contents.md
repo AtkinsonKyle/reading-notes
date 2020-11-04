@@ -24,7 +24,7 @@
 
 ### - [Daily Reading 11](https://github.com/AtkinsonKyle/reading-notes/blob/master/301/EJS.md)
 
-### - [Daily Reading 12]
+### - [Daily Reading 12](https://github.com/AtkinsonKyle/reading-notes/blob/master/301/components.md)
 
 ### - [Daily Reading 13]
 
