@@ -26,6 +26,6 @@
 
 ### - [Daily Reading 12](https://github.com/AtkinsonKyle/reading-notes/blob/master/301/components.md)
 
-### - [Daily Reading 13]
+### - [Daily Reading 13](https://github.com/AtkinsonKyle/reading-notes/blob/master/301/update-delete.md)
 
 ### - [Daily Reading 14]
