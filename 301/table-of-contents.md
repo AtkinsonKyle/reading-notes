@@ -29,3 +29,5 @@
 ### - [Daily Reading 13](https://github.com/AtkinsonKyle/reading-notes/blob/master/301/update-delete.md)
 
 ### - [Daily Reading 14](https://github.com/AtkinsonKyle/reading-notes/blob/master/301/dbNormalization.md)
+
+### - [Daily Reading 15](https://github.com/AtkinsonKyle/reading-notes/blob/master/301/diversity-inclusion.md)
